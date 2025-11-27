@@ -1,0 +1,19 @@
+WEB APIs
+
+Web APIs let frontend developers access browser features and external services directly from JavaScript. You can change the DOM, make network requests, store data, manage media, and enable real-time communication. They are crucial for creating dynamic and interactive web applications.
+
+Key APIs  
+- DOM API: Access and manipulate HTML and CSS elements.  
+- Fetch API / XMLHttpRequest: Make HTTP requests to retrieve or send data from or to servers.  
+- Storage APIs: Use LocalStorage, SessionStorage, and IndexedDB for client-side data storage.  
+- Canvas & WebGL: Draw graphics, animations, and interactive content.  
+- Geolocation API: Access user location with permission for location-based features.  
+- Web Sockets and Server-Sent Events: Real-time communication with servers.  
+- Notification API: Show system notifications to users.  
+- Web Audio and Video APIs: Handle media playback and manipulation.  
+
+Visit the following resources to learn more:
+MDN Web APIs Overview (https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)
+JavaScript.info - Browser & Web APIs (https://javascript.info/dom-nodes)
+W3schools - JavaScript Web APIs (https://www.w3schools.com/js/js_api_intro.asp)
+Wikipedia - Using Web APIs (https://en.wikipedia.org/wiki/Web_API)
